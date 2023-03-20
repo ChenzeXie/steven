@@ -1,0 +1,17 @@
+
+
+    @import url("https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@300;500&family=Lora&display=swap");
+
+    :root{
+        font-size: 16px;
+        --font-primary: "Josefin Sans", sans-serif;
+        --font-secondary: "Lora", serif;
+        --colour-bg: #f4f3f9;
+        --colour-text: #222222;
+      }
+
+    body{
+        background-color: var(--colour-bg);
+        font-family: var(--font-primary);
+    }
+    
